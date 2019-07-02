@@ -1,0 +1,14 @@
+#canvas {
+    display: block
+}
+
+    #startBtn{
+        border: 5px tomato solid;
+        font-size: 40 px;
+        position: absolute;
+        left: 23%;
+        top:40%
+        width: 130px
+    }
+
+    #restart
